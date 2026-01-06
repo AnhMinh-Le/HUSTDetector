@@ -36,12 +36,6 @@
 | Bui Thi Bich Ngoc | 20230088 | Member |
 
 ---
-
-## 📍 Overview
-
-The HUSTDetector project revolutionizes the detection of deepfake content through advanced text analysis. By leveraging state-of-the-art machine learning techniques, it offers robust tools for generating, managing, and evaluating text embeddings to accurately classify content as human, AI-generated, or mixed. Ideal for tech companies and cybersecurity experts, HUSTDetector enhances digital trust and integrity across various media platforms.
-
-
 ## 🚀 Getting Started
 
 ### ☑️ Prerequisites
