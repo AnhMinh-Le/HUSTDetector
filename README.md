@@ -2,7 +2,7 @@
 <!-- <img src="https://img.icons8.com/?size=512&id=55494&format=png" align="right" width="30%" style="margin: -20px 0 0 20px;"> -->
 <h1>HUSTDetector</h1>
 <p align="left">
-	<em>This project is a report for IT4142E - Introduction to Data Science 2025.1 under the guidance of Dr. Nguyen Duc Anh.</em>
+	<em>This project was conducted as part of the course IT4142E - Introduction to Data Science 2025.1 under the guidance of Dr. Nguyen Duc Anh.</em>
 </p>
 </div>
 <br clear="right">
